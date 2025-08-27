@@ -94,6 +94,7 @@ const applyFilters = () => {
 }
 
 $('#search').addEventListener('input', applyFilters);
-$('#cat').addEventListener('change', applyFilter);
+$('#cat').addEventListener('change', applyFilters);
 
 render();
+
