@@ -33,7 +33,7 @@ function introduce({ pName, age }) {
 }
 
 console.log(introduce(person));
-// 输出: "Hi, my name is Alice and I am 25 years old."
+// output: "Hi, my name is Alice and I am 25 years old."
 
 // #5
 function calculateArea(width, height = width) {
