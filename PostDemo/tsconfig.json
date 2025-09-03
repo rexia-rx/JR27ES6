@@ -2,8 +2,7 @@
     "compilerOptions": {
         "target": "ES2017",
         "lib": ["DOM","ES2017"],
-        "outFile": "main.js",
         "strict": true
     },
-    "files": ["main.ts"]
+    "files": ["main.ts", "stops.ts", "homework_es6.ts"]
 }
